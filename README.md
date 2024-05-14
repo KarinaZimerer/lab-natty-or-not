@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
+Desafio # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+(Inspirado na hype _"Natty or Not"_ do fisiculturismo)
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Desbloqueando Potenciais: Navegando No Gpt-4o E Além Com O Chatgpt
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Introduzir o novo GPT-4 do ChatGPT para usuários gratuitos.
+O que o leitor pode esperar aprender:
+* Experimente a inteligência de nível GPT-4
+* Obtenha respostas tanto do modelo quanto da web
+* Analise dados e crie gráficos
+* Converse sobre fotos que você tira
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Storybird AI 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usamos o ChatGPT para refinar nossa pesquisa sobre IAs Generativas e estruturar o conteúdo do e-book. Com o Storybird AI, geramos imagens exclusivas com texto para complementar nossa história sobre a criação de um e-book, com um tom divertido , como se tivesse contanto a propria experiencia e entusiamos de criar um e-bool. Esta abordagem inovadora nos permitiu criar uma narrativa envolvente e criativa, explorando as possibilidades da inteligência artificial enquanto produzíamos nosso próprio e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado? Um e-book envolvente que não só informa, mas também cativa. Ao usar o ChatGPT para aprimorar nossa pesquisa e estruturar o conteúdo, e o Storybird AI para adicionar imagens exclusivas e um tom divertido, conseguimos contar nossa jornada de criação de um e-book de maneira criativa e empolgante. Esta abordagem inovadora nos permitiu explorar as possibilidades da inteligência artificial enquanto compartilhávamos nossa paixão pela criação de conteúdo digital. O resultado final é uma narrativa que reflete nossa experiência e entusiasmo, proporcionando uma leitura cativante e inspiradora para nossos leitores.
+
+link do resultado: https://www.story.com/story/self-help-and-wellness/unlocking-potentials
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Este projeto não apenas nos permitiu explorar as capacidades da inteligência artificial, mas também nos levou a refletir sobre o processo criativo em si. Ao utilizar ferramentas como o ChatGPT e o Storybird AI, mergulhamos em um mundo de possibilidades, onde a tecnologia se torna uma aliada poderosa na expressão de nossas ideias e na criação de conteúdo significativo.
 
-### Exemplos e Insigths
+Além disso, ao compartilhar nossa jornada de criação de um e-book com um tom divertido e entusiasmado, reconhecemos a importância de abraçar a criatividade e a inovação em nossas próprias vidas. Através deste projeto, aprendemos que o processo de criação pode ser uma jornada emocionante e gratificante, repleta de descobertas e desafios.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Ao final, esta experiência nos lembra da importância de abraçar a tecnologia de forma responsável e ética, aproveitando seu potencial para inspirar e capacitar outros a compartilhar suas próprias histórias e criar um impacto positivo no mundo ao seu redor.
